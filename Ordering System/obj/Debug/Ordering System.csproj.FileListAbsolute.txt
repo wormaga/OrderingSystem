@@ -1,0 +1,26 @@
+e:\VS_Projects\Ordering System\Ordering System\obj\Debug\Ordering System.csprojResolveAssemblyReference.cache
+e:\VS_Projects\Ordering System\Ordering System\obj\Debug\Ordering_System.F_HomeSrceen.resources
+e:\VS_Projects\Ordering System\Ordering System\obj\Debug\Ordering_System.Form2.resources
+e:\VS_Projects\Ordering System\Ordering System\obj\Debug\Ordering_System.Properties.Resources.resources
+e:\VS_Projects\Ordering System\Ordering System\obj\Debug\Ordering System.csproj.GenerateResource.Cache
+e:\VS_Projects\Ordering System\Ordering System\bin\Debug\Ordering System.exe.config
+e:\VS_Projects\Ordering System\Ordering System\bin\Debug\Ordering System.exe
+e:\VS_Projects\Ordering System\Ordering System\bin\Debug\Ordering System.pdb
+e:\VS_Projects\Ordering System\Ordering System\obj\Debug\Ordering System.exe
+e:\VS_Projects\Ordering System\Ordering System\obj\Debug\Ordering System.pdb
+e:\VS_Projects\Ordering System\Ordering System\obj\Debug\Ordering_System.Form3.resources
+e:\VS_Projects\Ordering System\Ordering System\obj\Debug\Ordering_System.Keyboard.resources
+C:\Users\Alexander\Desktop\Ordering System\Ordering System\obj\Debug\Ordering System.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Ordering System\Ordering System\obj\Debug\Ordering_System.F_HomeSrceen.resources
+C:\Users\Alexander\Desktop\Ordering System\Ordering System\obj\Debug\Ordering_System.Form2.resources
+C:\Users\Alexander\Desktop\Ordering System\Ordering System\obj\Debug\Ordering_System.Form3.resources
+C:\Users\Alexander\Desktop\Ordering System\Ordering System\obj\Debug\Ordering_System.Keyboard.resources
+C:\Users\Alexander\Desktop\Ordering System\Ordering System\obj\Debug\Ordering_System.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Ordering System\Ordering System\obj\Debug\Ordering System.csproj.GenerateResource.Cache
+C:\Users\Alexander\Desktop\Ordering System\Ordering System\obj\Debug\Ordering System.exe
+C:\Users\Alexander\Desktop\Ordering System\Ordering System\obj\Debug\Ordering System.pdb
+C:\Users\Alexander\Desktop\Ordering System\Ordering System\bin\Debug\Ordering System.exe.config
+C:\Users\Alexander\Desktop\Ordering System\Ordering System\bin\Debug\Ordering System.exe
+C:\Users\Alexander\Desktop\Ordering System\Ordering System\bin\Debug\Ordering System.pdb
+C:\Users\Alexander\Desktop\Ordering System\Ordering System\obj\Debug\Ordering_System.SendPopUp.resources
+C:\Users\Alexander\Desktop\Ordering System\Ordering System\obj\Debug\Ordering_System.Search.resources

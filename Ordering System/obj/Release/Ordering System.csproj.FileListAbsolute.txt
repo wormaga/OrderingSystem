@@ -1,0 +1,14 @@
+E:\VS_Projects\Ordering System\Ordering System\bin\Release\Ordering System.exe.config
+E:\VS_Projects\Ordering System\Ordering System\bin\Release\Ordering System.exe
+E:\VS_Projects\Ordering System\Ordering System\bin\Release\Ordering System.pdb
+E:\VS_Projects\Ordering System\Ordering System\obj\Release\Ordering System.csprojResolveAssemblyReference.cache
+E:\VS_Projects\Ordering System\Ordering System\obj\Release\Ordering_System.F_HomeSrceen.resources
+E:\VS_Projects\Ordering System\Ordering System\obj\Release\Ordering_System.Form2.resources
+E:\VS_Projects\Ordering System\Ordering System\obj\Release\Ordering_System.Form3.resources
+E:\VS_Projects\Ordering System\Ordering System\obj\Release\Ordering_System.Search.resources
+E:\VS_Projects\Ordering System\Ordering System\obj\Release\Ordering_System.Keyboard.resources
+E:\VS_Projects\Ordering System\Ordering System\obj\Release\Ordering_System.Properties.Resources.resources
+E:\VS_Projects\Ordering System\Ordering System\obj\Release\Ordering_System.SendPopUp.resources
+E:\VS_Projects\Ordering System\Ordering System\obj\Release\Ordering System.csproj.GenerateResource.Cache
+E:\VS_Projects\Ordering System\Ordering System\obj\Release\Ordering System.exe
+E:\VS_Projects\Ordering System\Ordering System\obj\Release\Ordering System.pdb
